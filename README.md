@@ -1,21 +1,14 @@
+# Hi! I'm Ishara 👋
 
-# Hi there! 👋
-
-💡 I am Ishara Paranawithana
-🧠 **Medical Imaging • Computer Vision • NeuroTech • R&D • Engineering • Applied AI/ML & Data Analytic**
-📍 Melbourne, Australia
-
----
-
-## 🔗 Connect with Me
-
-- 📧 Email: isharackp@hotmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
-- 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
+<p align="left">
+  🎓 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre<br>
+  🧰 Interested in <strong>Medical Imaging , Computer Vision, NeuroTech, Applied AI/ML & Data Analytics</strong><br>
+  📍 Based in Melbourne, Australia
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About me
 
 I am an engineer with **8+ years of experience building applied AI and machine learning solutions**, specialising in **computer vision, data‑driven modelling, and end‑to‑end ML pipelines**.
 
@@ -25,7 +18,7 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 
 ---
 
-## 🚀 What I Work On
+## 🚀 What I work on
 
 - End‑to‑end **applied ML pipelines** (data → model → evaluation → iteration)
 - **Computer vision systems** for detection, tracking, and measurement
@@ -35,25 +28,32 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 
 ---
 
-## 🧰 Programming Languages & Tools
+## 🔬 Programming languages & tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg", height="64", width="64/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg", height="64", width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg", height="64", width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubeflow/kubeflow-original-wordmark.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg", height="50", width="50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg", height="50", width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg", height="50", width="50"/>
 </p>
 
 ---
 
-Feel free to connect via **LinkedIn** or reach out through my website.
+## 📫 Connect with me
+
+- 📧 Email: isharackp@hotmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
+- 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
+
+---
 ``
