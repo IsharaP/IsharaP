@@ -1,10 +1,11 @@
 # Hi! I'm Ishara 👋
 
-🧑‍💻 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre
-🎓 PhD in Electrical & Computer Systems Engineering (Biomedical Engineering)
-💡 Interested in **Medical Imaging , Computer Vision, NeuroTech, Applied AI/ML & Data Analytics**
-
-📍 Based in Melbourne, Australia
+<p>
+  🧑‍💻 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre<br>
+  🎓 PhD in Electrical & Computer Systems Engineering (Biomedical Engineering)<br>
+  💡 Interested in <strong>Medical Imaging , Computer Vision, NeuroTech, Applied AI/ML & Data Analytics</strong>strong><br><br>
+  📍 Based in Melbourne, Australia
+</p>
 
 ---
 
@@ -23,11 +24,7 @@
 ## 🧰 Programming languages & tools:
 
 <p align="left">
-  <a href="https://www.python.org/"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    
-</p>
-
-<p align="left">
+  <a href="https://www.kubeflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubeflow/kubeflow-original-wordmark.svg" target="_blank" width="50" height="50"></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="50", width="50"/>
