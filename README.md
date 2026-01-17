@@ -50,15 +50,12 @@
 
 ---
 
-### Installation 
-```py
-python -m venv .venv python=3.11
-source .venv/bin/activate
-```
+### Testing Lists
 
-```
-conda create -n test_env python=3.11
-conda activate test_env
-```
+<details>
+<summary>Test1</summary>
+ - gsgs
+ - gssj
+</details>
 
 ---
