@@ -44,7 +44,7 @@
 
 ## 📫 Get in touch
 
-- 📧 Email: isharackp@hotmail.com
+- 📧 Email: isharackp[at]hotmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
 - 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
 
