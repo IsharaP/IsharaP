@@ -43,7 +43,8 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 ## 🧰 Programming Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg", height="24", width="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg", height="128", width="128"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg", height="128", width="128" />
 </p>
 
 ---
