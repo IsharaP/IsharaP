@@ -9,14 +9,9 @@
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  https://sites.google.com/view/ishara-paranawithana/home
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg
-  </a>
-  https://www.linkedin.com/in/ishara-paranawithana
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
-  </a>
-</p>
+- 📧 [Email](isharackp@hotmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
+- 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
 
 ---
 
@@ -43,8 +38,19 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 ## 🧰 Programming Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg", height="128", width="128"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg", height="128", width="128" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg", height="150", width="150/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg", height="150", width="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg", height="150", width="150"/>
 </p>
 
 ---
