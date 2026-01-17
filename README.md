@@ -15,7 +15,7 @@
 
 - 📈 Proven ability to deliver solutions from prototypes to scalable and reproducible pipelines, ensuring models and analytics are robust, well‑validated, and ready for reliable real‑world use.
 
-- 🧠 My current work focuses on **developing AI‑driven quantitative PET/MR biomarkers** that support `early diagnosis`, `treatment monitoring`, and evidence‑based clinical decision‑making in Alzheimer’s disease.
+- 🧠 My current work focuses on **developing AI‑driven quantitative PET/MR biomarkers** that support early diagnosis, treatment monitoring, and evidence‑based clinical decision‑making in Alzheimer’s disease.
 
 - 🚀 To learn more about my work, check out my [resume](https://drive.google.com/file/d/1U_5HCV206EBXEhObK1OOvCfKSylvqE2_/view) and [Google Scholar](https://scholar.google.com.au/citations?user=augkY8UAAAAJ&hl=en&oi=ao) profile.
 
@@ -47,5 +47,18 @@
 - 📧 Email: isharackp[at]hotmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
 - 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
+
+---
+
+### Installation 
+```py
+python -m venv .venv python=3.11
+source .venv/bin/activate
+```
+
+```
+conda create -n test_env python=3.11
+conda activate test_env
+```
 
 ---
