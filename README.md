@@ -17,7 +17,7 @@
 
 - 🧠 My current work focuses on **developing AI‑driven quantitative PET/MR biomarkers** that support early diagnosis, treatment monitoring, and evidence‑based clinical decision‑making in Alzheimer’s disease.
 
-- 🚀 To learn more about my work, check out my [resume](https://drive.google.com/file/d/1U_5HCV206EBXEhObK1OOvCfKSylvqE2_/view)
+- 🚀 To learn more about my work, check out my [resume](https://drive.google.com/file/d/1U_5HCV206EBXEhObK1OOvCfKSylvqE2_/view) and [google scholar](https://scholar.google.com.au/citations?user=augkY8UAAAAJ&hl=en&oi=ao) profile.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 Get in touch
 
 - 📧 Email: isharackp@hotmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
