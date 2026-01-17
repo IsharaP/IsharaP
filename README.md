@@ -43,45 +43,16 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 ## 🧰 Programming Languages & Tools
 
 <p align="left">
-  https://www.python.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-  </a>
-  https://isocpp.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
-  </a>
-  https://www.mathworks.com/products/matlab.html
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg
-  </a>
-  https://www.docker.com/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
-  </a>
-  https://apptainer.org/
-    https://avatars.githubusercontent.com/u/5659923?s=200&v=4
-  </a>
-  https://git-scm.com/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  </a>
-  https://www.linux.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-  </a>
-  https://www.mysql.com/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-  </a>
-  https://pytorch.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg
-  </a>
-  https://www.tensorflow.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg
-  </a>
-  https://scikit-learn.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg
-  </a>
-  https://scikit-image.org/
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitimage/scikitimage-original.svg
-  </a>
-  https://opencv.org/
-    <img src="https://vr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pythoniginal.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+  <img src="https://cdn.jsdelivrvicons/devicon/icons/matlab/matlab-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/deviconscons/docker/docker-original.svg
+  <img src="https://avatars.githubusercontent.com/u/5659923?s <imgs://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devcon/icons/pytorch/pytorch-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorrflow-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-originalg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencviginal.svg
 </p>
 
 ---
