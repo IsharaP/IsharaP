@@ -23,10 +23,11 @@
 ## 🧰 Programming languages & tools:
 
 <p align="left">
-  <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg", height="50", width="50"/>
-  </a>
+  <a href="https://www.python.org/"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     
+</p>
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="50", width="50"/>
