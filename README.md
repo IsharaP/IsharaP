@@ -1,30 +1,23 @@
 # Hi! I'm Ishara 👋
 
 <p align="left">
-  🎓 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre<br>
+  🧑‍🔬 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre<br>
+  🎓 PhD in Electrical & Computer Systems Engineering (Biomedical Engineering)<br>
   🧰 Interested in <strong>Medical Imaging , Computer Vision, NeuroTech, Applied AI/ML & Data Analytics</strong><br>
   📍 Based in Melbourne, Australia
 </p>
 
----
+--
 
-## 🧠 About me
+##  About me
 
-I am an engineer with **8+ years of experience building applied AI and machine learning solutions**, specialising in **computer vision, data‑driven modelling, and end‑to‑end ML pipelines**.
+🤖 Applied AI/ML Computer Vision Engineer with 8+ years of experience working across **medical imaging, computer‑vision‑based robotics and automation, and neurotechnology**, delivering end‑to‑end intelligent solutions from data to deployment.
 
-My work focuses on **translating advanced research into deployable, production‑ready systems**, with experience taking ideas from **experimental models to scalable, reproducible AI solutions** used in real‑world environments.
+💼 Proven ability to deliver solutions from prototypes to scalable and reproducible pipelines, ensuring models and analytics are robust, well‑validated, and ready for reliable real‑world use.
 
-I have a strong background working with **image‑ and signal‑rich datasets**, developing and validating ML models, and engineering solutions that prioritise **robustness, interpretability, and real‑world impact**.
+🧠 My current work focuses on developing **AI‑driven quantitative PET/MR biomarkers** that support early diagnosis, treatment monitoring, and evidence‑based clinical decision‑making in Alzheimer’s disease.
 
----
-
-## 🚀 What I work on
-
-- End‑to‑end **applied ML pipelines** (data → model → evaluation → iteration)
-- **Computer vision systems** for detection, tracking, and measurement
-- Model optimisation for **performance, reliability, and generalisation**
-- Bridging the gap between **research prototypes and deployable AI systems**
-- Collaboration with cross‑functional teams to deliver usable ML solutions
+🚀 To learn more about my work: [Resume](https://drive.google.com/file/d/1U_5HCV206EBXEhObK1OOvCfKSylvqE2_/view)
 
 ---
 
@@ -52,8 +45,8 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 ## 📫 Connect with me
 
 - 📧 Email: isharackp@hotmail.com
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ishara-paranawithana/)
 - 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
 
 ---
-``
