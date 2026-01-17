@@ -3,7 +3,7 @@
 <p>
   🧑‍💻 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre<br>
   🎓 PhD in Electrical & Computer Systems Engineering (Biomedical Engineering)<br>
-  💡 Interested in <strong>`Medical Imaging`, `Computer Vision`, `NeuroTech`, `Applied AI/ML & Data Analytics`</strong><br><br>
+  💡 Interested in <strong>Medical Imaging, Computer Vision, NeuroTech, Applied AI/ML & Data Analytics</strong><br><br>
   📍 Based in Melbourne, Australia
 </p>
 
@@ -15,7 +15,7 @@
 
 - 📈 Proven ability to deliver solutions from prototypes to scalable and reproducible pipelines, ensuring models and analytics are robust, well‑validated, and ready for reliable real‑world use.
 
-- 🧠 My current work focuses on **developing AI‑driven quantitative PET/MR biomarkers** that support early diagnosis, treatment monitoring, and evidence‑based clinical decision‑making in Alzheimer’s disease.
+- 🧠 My current work focuses on **developing AI‑driven quantitative PET/MR biomarkers** that support `early diagnosis`, `treatment monitoring`, and evidence‑based clinical decision‑making in Alzheimer’s disease.
 
 - 🚀 To learn more about my work, check out my [resume](https://drive.google.com/file/d/1U_5HCV206EBXEhObK1OOvCfKSylvqE2_/view) and [Google Scholar](https://scholar.google.com.au/citations?user=augkY8UAAAAJ&hl=en&oi=ao) profile.
 
