@@ -49,17 +49,3 @@
 - 🌐 [Personal Website](https://sites.google.com/view/ishara-paranawithana/)
 
 ---
-
-### Testing Lists
-
-<details>
-<summary>Test1</summary>
- - gsgs<br>
- - gssj
-</details>
-
-> [!Tip]
-> test
-> test2
-
----
