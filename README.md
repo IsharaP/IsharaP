@@ -1,18 +1,14 @@
 # Hi! I'm Ishara 👋
 
-<p align="left">
-  🧑‍💻 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre<br>
-  
-  🎓 PhD in Electrical & Computer Systems Engineering (Biomedical Engineering)<br>
-  
-  🧰 Interested in <strong>Medical Imaging , Computer Vision, NeuroTech, Applied AI/ML & Data Analytics</strong><br>
-  
-  📍 Based in Melbourne, Australia
-</p>
+🧑‍💻 Scientist at CSIRO Health & Biosecurity | Australian e-Health Research Centre
+🎓 PhD in Electrical & Computer Systems Engineering (Biomedical Engineering)
+💡 Interested in **Medical Imaging , Computer Vision, NeuroTech, Applied AI/ML & Data Analytics**
+
+📍 Based in Melbourne, Australia
 
 ---
 
-##  About me
+## ✨ About me
 
 - 🤖 Applied AI/ML Computer Vision Engineer with 8+ years of experience working across **medical imaging, computer‑vision‑based robotics and automation, and neurotechnology**, delivering end‑to‑end intelligent solutions from data to deployment.
 
@@ -24,9 +20,13 @@
 
 ---
 
-## 🔬 Programming languages & tools:
+## 🧰 Programming languages & tools:
 
 <p align="left">
+  <a href="https://www.tensorflow.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg", height="50", width="50"/>
+  </a>
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="50", width="50"/>
