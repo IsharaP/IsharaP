@@ -42,18 +42,13 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 
 ## 🧰 Programming Languages & Tools
 
+
+## 🧰 Programming & Tools
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pythoniginal.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
-  <img src="https://cdn.jsdelivrvicons/devicon/icons/matlab/matlab-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/deviconscons/docker/docker-original.svg
-  <img src="https://avatars.githubusercontent.com/u/5659923?s <imgs://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devcon/icons/pytorch/pytorch-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorrflow-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-originalg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencviginal.svg
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="/cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="livr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="36" altdelivr.net/gh/deviconscons/docker/docker-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" altdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"et/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="/cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensornal.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36dn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height
 
 ---
 
