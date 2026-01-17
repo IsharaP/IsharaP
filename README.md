@@ -24,7 +24,7 @@
 ## 🧰 Programming languages & tools:
 
 <p align="left">
-  <a href="https://www.kubeflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubeflow/kubeflow-original-wordmark.svg" target="_blank" width="50" height="50"></a>
+  <a href="https://www.kubeflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubeflow/kubeflow-original-wordmark.svg" target="_blank" width="50" height="50"></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg", height="50", width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg", height="50", width="50"/>
