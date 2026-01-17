@@ -1,22 +1,20 @@
-# Hi, I’m Ishara Paranawithana 👋
 
-💡 **Applied AI / Machine Learning Engineer | Data Scientist**  
-🧠 Computer Vision • ML for Imaging • Data‑Driven Systems  
+# Hi there! 👋
+
+💡 I am Ishara Paranawithana
+🧠 **Medical Imaging • Computer Vision • NeuroTech • R&D • Engineering • Applied AI/ML & Data Analytic**
 📍 Melbourne, Australia
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://sites.google.com/view/ishara-paranawithana/home
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=me&logoColor=white
+  https://sites.google.com/view/ishara-paranawithana/home
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg
   </a>
-  <a href="https://www.linkedin.com/in/ishara-paranawithana/
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://scholar.google.com.au/citations?user=augkY8UAAAAJ&hl=en&authuser=1
-    https://img.shields.io/badge/Background%20Research-6A737D?style=for-the-badge
+  https://www.linkedin.com/in/ishara-paranawithana
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
   </a>
 </p>
 
@@ -42,17 +40,51 @@ I have a strong background working with **image‑ and signal‑rich datasets**,
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Programming Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pythoniginal.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
-  <img src="https://cdn.jsdelivrvicons/devicon/icons/matlab/matlab-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/deviconscons/docker/docker-original.svg
-  <img src="https://avatars.githubusercontent.com/u/5659923?s <imgs://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devcon/icons/pytorch/pytorch-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorrflow-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-originalg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencviginal.svg
+  https://www.python.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  </a>
+  https://isocpp.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg
+  </a>
+  https://www.mathworks.com/products/matlab.html
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg
+  </a>
+  https://www.docker.com/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+  </a>
+  https://apptainer.org/
+    https://avatars.githubusercontent.com/u/5659923?s=200&v=4
+  </a>
+  https://git-scm.com/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  </a>
+  https://www.linux.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+  </a>
+  https://www.mysql.com/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+  </a>
+  https://pytorch.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg
+  </a>
+  https://www.tensorflow.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg
+  </a>
+  https://scikit-learn.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg
+  </a>
+  https://scikit-image.org/
+    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitimage/scikitimage-original.svg
+  </a>
+  https://opencv.org/
+    <img src="https://vr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg
+  </a>
 </p>
+
+---
+
+Feel free to connect via **LinkedIn** or reach out through my website.
+``
