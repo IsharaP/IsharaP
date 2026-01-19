@@ -50,7 +50,6 @@
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-013243.svg?logo=scipy&logoColor=white"></a>
       <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C.svg?logo=matplotlib&logoColor=white"></a>
-      <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0.svg?logo=seaborn&logoColor=white"></a>
       <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
