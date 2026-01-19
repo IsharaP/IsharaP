@@ -24,7 +24,7 @@
 <details open> 
   <summary><h2>🧰 Tech stack</h2></summary>
   <h3>Programming languages & tools:</h3>
-  
+
   <p align="left">
     <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"></a>
     <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50"></a>
@@ -43,7 +43,8 @@
     <a href="https://pytorch.org//" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50"></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"></a>-->
   </p>
-  <h3>Frameworks & libraries</h3>
+  
+  <h3>Frameworks & libraries:</h3>
 
   <p align="left">
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
